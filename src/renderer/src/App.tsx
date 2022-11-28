@@ -1,3 +1,5 @@
+import "./styles/global.css"
+
 export function App() {
-  return <h1>hello mundo</h1>
+  return <h4 className="font-bold text-violet-400 text-4xl">nao ta funcionando ainda</h4>
 }
